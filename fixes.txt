@@ -3,3 +3,4 @@ i am a fix file which will be used to fix the bug.
 one more bug detected and fixed.
 
 Add another file to the folder and commit it.
+Add another file to the folder and commit it.
