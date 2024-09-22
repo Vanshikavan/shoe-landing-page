@@ -96,7 +96,7 @@ html,body{
     width: 65%;
     height: 100%;
     position: relative;
-    background-color:;
+    background-color: #000;
     padding: 30px;
     white-space: nowrap;
 }
