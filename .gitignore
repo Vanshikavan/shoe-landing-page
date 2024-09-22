@@ -1,0 +1,3 @@
+# the file names kept here will be ignored.
+node_modules
+.env
